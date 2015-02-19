@@ -1,0 +1,22 @@
+{
+	"name": "cedaro/embed-jetpack-custom-css",
+	"description": "A WordPress plugin to embed Jetpack Custom CSS in the document head to improve performance.",
+	"keywords": ["wordpress"],
+	"type": "wordpress-plugin",
+	"homepage": "https://github.com/cedaro/embed-jetpack-custom-css",
+	"license": "GPL-2.0+",
+	"authors": [
+		{
+			"name": "Brady Vercher",
+			"email": "brady@blazersix.com",
+			"homepage": "http://www.cedaro.com/"
+		}
+	],
+	"support": {
+		"issues": "https://github.com/cedaro/embed-jetpack-custom-css/issues",
+		"source": "https://github.com/cedaro/embed-jetpack-custom-css"
+	},
+	"require": {
+		"composer/installers": "~1.0"
+	}
+}
