@@ -5,11 +5,12 @@
  * @package   Cedaro_Jetpack_CustomCSS_Embed
  * @author    Brady Vercher
  * @link      http://www.cedaro.com/
- * @copyright Copyright (c) 2015 Cedaro, Inc.
+ * @copyright Copyright (c) 2015 Cedaro, LLC
  * @license   GPL-2.0+
  *
  * @wordpress-plugin
  * Plugin Name:       Embed Jetpack Custom CSS
+ * Plugin URI:        https://github.com/cedaro/embed-jetpack-custom-css
  * Description:       Embed Jetpack Custom CSS in the document head to improve front end performance.
  * Version:           1.0.0
  * Author:            Cedaro
